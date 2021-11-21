@@ -5,5 +5,5 @@ I love playing video games, but making them is even cooler.  :)
 
 I'm still a big noob, but it will come with time.  ^^
 Here are some of the languages I know:
-HTML-5 | CSS | JavaScript ♥ | PHP | C# ♥ | Python3 | SQL | Bash
+HTML-5 | CSS | JavaScript | PHP | C# | Python3 | SQL | Bash
 <!--- JavaScript and C# are still the best :) ---> 
