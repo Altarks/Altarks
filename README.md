@@ -9,10 +9,3 @@ HTML-5 | CSS | JavaScript ♥ | PHP | C# ♥ | Python3 | SQL | Bash
 <!--- JavaScript and C# are still the best :) ---> 
 
 You can reach me at hugomarty5@gmail.com
-
-
- .>   )\;\`▪__
-(  _ _)/ /-." ~~
- \`( )_ )/
-  <_  <_ 
-<!--- Ascii Art by Donovan Bake   Thank you Donovan, your dragon is beautiful --->
